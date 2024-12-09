@@ -8,9 +8,10 @@
 <body>
     <h1>Welcome to the Vulnerable Web Project</h1>
     <p>This is a testing environment for learning web vulnerabilities. Click a link below to explore specific pages:</p>
+    <h3>XSS Vulnerabilities</h3>
     <ul>
-        <li><a href="vulnerable-xss/1-HelloUser.php">XSS Vulnerability Example</a></li>
-        <li><a href="other-vuln-page.php">Another Vulnerability Example</a></li>
+        <li><a href="vulnerable-xss/1-HelloUser.php">Example 1</a></li>
+        <li><a href="other-vuln-page.php">Example 2</a></li>
     </ul>
     <p><strong>Note:</strong> This environment is intentionally vulnerable. Keep it isolated!</p>
 </body>
